@@ -1,6 +1,8 @@
+
+
 ################## Implementation of: ##################
 
-Delaunay Inflation algorithm introduced in:
+Delaunay Inflation algorithm for 2D to 3D conversion introduced in:
 
 
 Paper Title:- A digital assistant for shading paper sketches
