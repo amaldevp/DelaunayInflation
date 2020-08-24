@@ -1,4 +1,4 @@
-https://github.com/amaldevp/DelaunayInflation/blob/master/samples.png
+<img src="./samples.jpg">
 
 ################## Implementation of: ##################
 
