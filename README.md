@@ -1,9 +1,4 @@
-<img
-src=“samples.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img src=“samples.png” style=“margin-right: 10px;”/>
 
 ################## Implementation of: ##################
 
