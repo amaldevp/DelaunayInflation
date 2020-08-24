@@ -1,4 +1,4 @@
-<img src=“samples.png” style=“margin-right: 10px;”/>
+<img src="./samples.png">
 
 ################## Implementation of: ##################
 
