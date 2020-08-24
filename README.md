@@ -27,7 +27,7 @@ This program is a research prototype, and may contain bugs and flaws.
 
 ######### Contains: #########
 
-Processing code for Delaunay inflation.
+Processing code for Delaunay inflation (Edit the input filename and run it, that is all :-) ).
 
 A sample input and output of the program.
 
